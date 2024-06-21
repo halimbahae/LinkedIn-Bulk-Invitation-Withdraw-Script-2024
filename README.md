@@ -19,34 +19,6 @@ Just copy the content of the `linkedin-bulk-invitation-withdraw-script.js` file,
 3. **Paste and Run the Script**:
    Copy the script from `linkedin-bulk-invitation-withdraw-script.js`, paste it into the console, and press Enter.
 
-4. **Re-run if Necessary**:
-   If not all invitations are withdrawn, repeat the process.
-
-
-```markdown
-# LinkedIn Bulk Invitation Withdrawal Automation Script #2024 Version
-
-Withdraw All Your LinkedIn Connection Invitations At Once With No Effort
-
-Hi Everyone,
-
-Managing a large number of pending connection requests on LinkedIn can be a hassle. To help streamline this process, I've created an updated script for 2024 that automatically withdraws all your pending invitations. With this script, you can sit back and watch as the invitations are withdrawn without any manual clicking.
-
-## How It Works
-
-Just copy the content of the `linkedin-bulk-invitation-withdraw-script.js` file, paste it into the Chrome developer console, press Enter, and let the script do the work for you.
-
-## Steps to Use the Script
-
-1. **Visit the Invitation Manager**:
-   Open Chrome on your Mac or PC and navigate to [LinkedIn Invitation Manager - Sent](https://www.linkedin.com/mynetwork/invitation-manager/sent/).
-
-2. **Open Developer Tools**:
-   Right-click on the page, select **Inspect**, and switch to the **Console** tab.
-
-3. **Paste and Run the Script**:
-   Copy the script below, paste it into the console, and press Enter.
-
    ```javascript
    /*
    Developed by: Bahae Eddine HALIM
@@ -116,4 +88,4 @@ If you have any questions or run into any issues, feel free to contact me via [L
 Happy networking!
 
 Bahae Eddine HALIM
-```
+
