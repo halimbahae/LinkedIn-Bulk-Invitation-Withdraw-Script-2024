@@ -50,7 +50,7 @@ Just copy the content of the `linkedin-bulk-invitation-withdraw-script-2024.js` 
                        console.log("running.. click " + totalCount);
                        el.click();
                        idx++;
-                       setTimeout(clickNextButton, timeoutInterval); // Change timeout to 5 seconds
+                       setTimeout(clickNextButton, timeoutInterval); 
                    }
                } else {
                    console.log("Need to find new elems");
@@ -64,7 +64,7 @@ Just copy the content of the `linkedin-bulk-invitation-withdraw-script-2024.js` 
                            len = els.length;
                            clickNextButton();
                        }
-                   }, timeoutInterval); // Change timeout to 5 seconds
+                   }, timeoutInterval); 
                }
            }
 
