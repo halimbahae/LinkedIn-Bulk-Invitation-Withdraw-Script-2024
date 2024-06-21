@@ -6,7 +6,7 @@ Managing a large number of pending connection requests on LinkedIn can be a hass
 
 ### How It Works
 
-Just copy the content of the `linkedin-bulk-invitation-withdraw-script.js` file, paste it into the Chrome developer console, press Enter, and let the script do the work for you.
+Just copy the content of the `linkedin-bulk-invitation-withdraw-script-2024.js` file, paste it into the Chrome developer console, press Enter, and let the script do the work for you.
 
 ### Steps to Use the Script
 
@@ -17,7 +17,7 @@ Just copy the content of the `linkedin-bulk-invitation-withdraw-script.js` file,
    Right-click on the page, select **Inspect**, and switch to the **Console** tab.
 
 3. **Paste and Run the Script**:
-   Copy the script from `linkedin-bulk-invitation-withdraw-script.js`, paste it into the console, and press Enter.
+   Copy the script from `linkedin-bulk-invitation-withdraw-script-2024.js`, paste it into the console, and press Enter.
 
    ```javascript
    /*
