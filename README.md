@@ -81,7 +81,7 @@ Just copy the content of the `linkedin-bulk-invitation-withdraw-script-2024.js` 
 ## Additional Resources
 
 - **GitHub Repository**: Find the script and additional resources on [GitHub](https://github.com/halimbahae/LinkedIn-Bulk-Invitation-Withdraw-Script).
-- **Video Tutorial**: Watch a screencast demonstrating the method on [YouTube](https://youtu.be/@halimbahae).
+- **Video Tutorial**: Watch a screencast demonstrating the method on [YouTube](https://youtube.com/shorts/jVsMTCHfq4s).
 
 If you have any questions or run into any issues, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/halimbahae/).
 
